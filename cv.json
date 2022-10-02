@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/WebmonsterA/json-schema-resume-tech/master/schema.json";
   "basics": {
     "name": "Joe Bello",
     "job": "Concepteur développeur Senior",
