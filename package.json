@@ -1,0 +1,27 @@
+{
+  "name": "jsoncv.tech",
+  "version": "1.0.0",
+  "description": "jsoncv.tech schema",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebmonsterA/JSONcv.git"
+  },
+  "keywords": [
+    "schema",
+    "json",
+    "resume",
+    "curriculum",
+    "vitae",
+    "cv"
+  ],
+  "author": "webmonster <hello@webmonster.tech> (https://github.com/WebmonsterA)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WebmonsterA/JSONcv/issues"
+  },
+  "homepage": "https://github.com/WebmonsterA/JSONcv#readme"
+}

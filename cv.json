@@ -1,0 +1,143 @@
+{
+  "basics": {
+    "name": "Joe Bello",
+    "job": "Concepteur développeur Senior",
+    "phone": "0696000000",
+    "website": "https://joebello.com",
+    "email": "joebello@gmail.com",
+    "age": 36,
+    "country": "Martinique",
+    "city": "Le Lamentin",
+    "summary": "Dynamique et impliqué, je suis à la recherche d'un poste de concepteur développeur ou d'une nouvelle expérience dans la formation, basée sur le respect, la transparence et la communication"
+  },
+  "profiles": [
+    {
+      "network": "Linkedin",
+      "username": "joebello",
+      "url": "https://linkedin.com/joebello"
+    },
+    {
+      "network": "Github",
+      "username": "joebello",
+      "url": "https://github.com/joebello"
+    }
+  ],
+  "areaOfIntervention": [
+    "Conception logicielle",
+    "Développement, Formation",
+    "Numérique",
+    "Recette",
+    "E-Commerce"
+  ],
+  "lastExperiences": [
+    {
+      "year": 2022,
+      "duration": "",
+      "company": "Électricité de France (EDF)",
+      "job": "Développeur Senior .NET"
+    },
+    {
+      "year": 2020,
+      "duration": "24 mois",
+      "company": "Sara",
+      "job": "Concepteur développeur Senior .NET"
+    },
+    {
+      "year": 2019,
+      "duration": "12 mois",
+      "company": "Orange Martinique",
+      "job": "Concepteur développeur Senior C#"
+    },
+    {
+      "year": 2017,
+      "duration": "24 mois",
+      "company": "Pixel",
+      "job": "Développeur Senior ASP"
+    },
+    {
+      "year": 2016,
+      "duration": "12 mois",
+      "company": "Carrefour",
+      "job": "Développeur junior .NET"
+    }
+  ],
+  "skills": [
+    {"programmingLanguages": "HTML/CSS, Javascript, ASP, .NET, C#"},
+    {"methods": "scrum, kanban, design pattern"},
+    {"database": "SQL Server, Oracle, MySql"},
+    {"server": "IIS, Nginx, Apache, LightHttpd, Node"}
+  ],
+  "education": [
+    {
+      "entitled": "Licence Miage",
+      "duration": "2 ans",
+      "school": "Université des Antilles"
+    },
+    {
+      "entitled": "Concepteur développeur",
+      "duration": "5 ans",
+      "school": "Supinfo"
+    }
+  ],
+  "languagesLevel": [
+    {
+      "language": "Anglais",
+      "skill": "Intermédiaire"
+    },
+    {
+      "language": "Espagnol",
+      "skill": "Intermédiaire"
+    }
+  ],
+  "detailedExperiences": [
+    {
+      "company": "Électricité de France (EDF)",
+      "start": "Janvier 2022",
+      "end": "Poste actuel",
+      "duration": "+9 mois",
+      "job": "Développeur senior .NET",
+      "context": "Au sein du département numérique des systèmes d'information, et pilotage des projets internes",
+      "environment": ["Windows Server, Framework .NET, SQL Server, C#, HTML, CSS"],
+      "softSkills": ["Vision, Communication, Sens du collectif, Curiosité, Motivation"],
+      "projects": [
+        {
+          "name": "Logiciel de gestion clients",
+          "duration": "4 mois",
+          "skillsLearned": "C#, IIS, SQL Server, Front, Back",
+          "description":"Mon travail consistait à créer un logiciel de gestion pour les clients et de gérer la base de données associée, de sa conception sur papier à son développement",
+          "conception": [
+            "Analyse des besoins utilisateurs",
+            "Rédaction des cahiers des charges (techniques et fonctionnels)",
+            "Être de force de proposition concernant les évolutions et améliorations du logiciel"
+          ],
+          "achievement": [
+            "Choix de l'environnement technique (C#)",
+            "Conception du schéma de base de données UML et rédaction du corpus de données",
+            "Installation des environnements (dev, test/recette, production)",
+            "Développement de l'application Front et Back",
+            "Réalisation de la recette",
+            "Mise en production"
+          ]
+        },
+        {
+          "name": "Application Web pour la gestion des ressources humaines",
+          "duration": "5 mois",
+          "skillsLearned": "HTML, CSS, .NET, IIS, SQL Server, Front, Back",
+          "description":"Mon travail consistait à créer une application Web pour les ressources humaines capable de référencer l'ensemble des formations disponibles pour les agents EDF",
+          "conception": [
+            "Analyse des besoins utilisateurs",
+            "Rédaction des cahiers des charges (techniques et fonctionnels)"
+          ],
+          "realisation": [
+            "Choix de l'environnement technique (HTML/CSS/SQL Server/IIS/.NET)",
+            "Conception du schéma de base de données UML et rédaction du corpus de données",
+            "Installation des environnements (dev, test/recette, production)",
+            "Développement de l'application Front et Back",
+            "Réalisation de la recette",
+            "Mise en production"
+          ]
+        }
+      ]
+    }
+  ]
+}
