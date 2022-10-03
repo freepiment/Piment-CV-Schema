@@ -1,7 +1,7 @@
 {
-  "name": "jsoncv.tech",
-  "version": "1.0.0",
-  "description": "jsoncv.tech schema",
+  "name": "piment cv",
+  "version": "1.2.0",
+  "description": "An open source initiative led by the Webmonster community to create a JSON-based standard for resumes for computer professionals.",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
