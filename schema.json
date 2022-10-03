@@ -40,10 +40,6 @@
           "description": "e.g. joebello@mail.com",
           "format": "email"
         },
-        "age": {
-          "type": "number",
-          "description": "Age is stored as strings so use this format, e.g. 33"
-        },
         "country": {
           "type": "string",
           "description": "Age is stored as strings so use this format, e.g. Martinique"
