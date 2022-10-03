@@ -1,4 +1,4 @@
-### JSON schema for tech resumes
+### Piment CV - Schema
 
 An open source initiative led by the Webmonster community to create a JSON-based standard for tech resumes
 
